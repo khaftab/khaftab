@@ -35,7 +35,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<div style="width: 50px; height: 10px; background-color: #111">
+<div style="width: 50px; height: 100px; background-color: #111">
 
 <br/>
 
