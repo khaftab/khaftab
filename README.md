@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-// - 🎓 &nbsp; Finshed diploma in Mechanical Engineering.
+<!-- - 🎓 &nbsp; Finshed diploma in Mechanical Engineering. -->
 - 🌱 &nbsp; Learning more about Cloud Architecture and Full Stack web development
 
 
