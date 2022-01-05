@@ -30,7 +30,9 @@
   
 
 <br/>
-![uy](https://github-readme-stats.vercel.app/api?username=khaftab&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaftab&show_icons=true&locale=en&count_private=true&theme=jolly" alt="khaftab stat's" /></p>
+
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
