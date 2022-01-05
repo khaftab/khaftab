@@ -30,8 +30,7 @@
   
 
 <br/>
-<!-- [![Aftab's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaftab&show_icons=true&theme=blueberry) -->
-(https://github-readme-stats.vercel.app/api?username=khaftab&show_icons=true&theme=radical)
+[uy](https://github-readme-stats.vercel.app/api?username=khaftab&show_icons=true&theme=radical)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
